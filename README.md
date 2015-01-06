@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transform coordinate between earth(WGS-84) and mars in china(GCJ-02).
 
 GCJ-02 coordiante is used by Google Maps, Autonavi Map and other china map service. (Baidu Map has an extra offset based on GCJ-02)
@@ -128,3 +129,9 @@ GCJ-02坐标用在谷歌地图，高德地图等中国地图服务。（百度�
  - http://blog.csdn.net/coolypf/article/details/8686588
  - http://cxzy.people.com.cn/GB/196034/14908095.html
  - https://github.com/Leask/EvilTransform
+=======
+eviltransform
+=============
+
+地球坐标（WGS-84）与火星坐标（GCJ－2）转换.
+>>>>>>> FETCH_HEAD
